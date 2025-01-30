@@ -11,6 +11,5 @@
 - Minor, Sociology | The Univeristy of Massachusetts Amherst (_May 2021_)
  
 ### Work Experience 
-- A.I Trainer | Outlier A.I | (_September 2024_ to Present) 
 - Assistant Property Manager | The Dolben Company (_June 2022_ to _October 2023_)
 
